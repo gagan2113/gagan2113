@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-I'm <b>Gagan Verma</b> – a <b>data analyst</b> and aspiring <b>data scientist</b> passionate about transforming raw data into actionable insights.<br>
+I'm <b>Gagan Verma</b> – a <b>Business Analyst and Data Analyst</b> and aspiring <b>Data Engineer</b> passionate about transforming raw data into actionable insights.<br>
 I specialize in <b>data visualization, automation, and analytics</b> using Python, SQL, Power BI, and Tableau.
 </p>
 
